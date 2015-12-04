@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  helper
 //
-//  Created by Admin on 03.12.15.
+//  Created by Roman @ultr0 Okhotnikov on 03.12.15.
 //  Copyright © 2015 PNU. All rights reserved.
 //
 
